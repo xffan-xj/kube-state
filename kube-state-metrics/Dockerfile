@@ -1,2 +1,2 @@
-FROM kubesphere/openelb:v0.4.4
+FROM kubesphere/openelb:v0.5.1
 
